@@ -8,7 +8,7 @@ I'm an engineering student passionate about blending technnical skills with crea
 - Digital Product Development
 
 ## 🛠 Skills & Tools
-Python • Java • SQL • Figma • HTML/CSS/JS • Django • React • Git • 
+Python • Java • Figma • HTML/CSS/JS  • C/C++
 
 ## 💬 Let’s Collaborate
 I love interdisciplinary projects where I can help bring an idea to life through both code and design.
