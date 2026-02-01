@@ -6,9 +6,10 @@ I'm an engineering student passionate about blending technnical skills with crea
 - Data Engineering & Cloud Architecture
 - UX Design & Interactive Systems
 - Digital Product Development
+- Web and WordPress Devekopment
 
 ## 🛠 Skills & Tools
-Python • Java • Figma • HTML/CSS/JS  • C/C++
+Python • Java • Figma • HTML/CSS/JS  • C/C++ • React 
 
 ## 💬 Let’s Collaborate
 I love interdisciplinary projects where I can help bring an idea to life through both code and design.
